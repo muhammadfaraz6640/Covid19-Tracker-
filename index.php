@@ -98,7 +98,7 @@
             $("#search-button").on("click",function(e){  
                 e.preventDefault();            
                 var Searched_Item = document.getElementById("search").value;
-                console.log(Searched_Item);
+                
                 
         });
         }
